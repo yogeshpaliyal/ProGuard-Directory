@@ -9,4 +9,4 @@
 ### G
 | Library | ProGuard |
 |--|--|
-[Click Here](https://github.com/bumptech/glide)|[Click Here](https://github.com/bumptech/glide/blob/10acc31a16b4c1b5684f69e8de3117371dfa77a8/library/proguard-rules.txt)  
+[Glide](https://github.com/bumptech/glide)|[Click Here](https://github.com/bumptech/glide/blob/10acc31a16b4c1b5684f69e8de3117371dfa77a8/library/proguard-rules.txt)  
