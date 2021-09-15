@@ -5,7 +5,10 @@
 |--|--|
 [Android Fast Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)|[Click Here](https://github.com/amitshekhariitbhu/Fast-Android-Networking/blob/2a72ef2694c55d8391c553400c0ae54c9d7e5038/android-networking/proguard-rules.pro)
 
-
+### F
+| Library | ProGuard |
+|--|--|
+Facebook | [Click Here](https://github.com/facebook/facebook-android-sdk/blob/master/facebook-login/proguard-rules.pro)
 
 ### G
 | Library | ProGuard |
