@@ -14,3 +14,9 @@ Facebook | [Click Here](https://github.com/facebook/facebook-android-sdk/blob/ma
 | Library | ProGuard |
 |--|--|
 [Glide](https://github.com/bumptech/glide)|[Click Here](https://github.com/bumptech/glide/blob/10acc31a16b4c1b5684f69e8de3117371dfa77a8/library/proguard-rules.txt)
+
+
+### S
+| Library | ProGuard |
+|--|--|
+[Stfalcon ChatKit](https://github.com/stfalcon-studio/ChatKit)|[Click Here](https://github.com/stfalcon-studio/ChatKit/blob/master/sample/proguard-rules.pro)
