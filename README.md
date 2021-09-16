@@ -16,6 +16,11 @@ Facebook | [Click Here](https://github.com/facebook/facebook-android-sdk/blob/ma
 [Glide](https://github.com/bumptech/glide)|[Click Here](https://github.com/bumptech/glide/blob/10acc31a16b4c1b5684f69e8de3117371dfa77a8/library/proguard-rules.txt)
 
 
+### R
+| Library | ProGuard |
+|--|--|
+[Retrofit](https://github.com/square/retrofit)|[Click Here](https://github.com/square/retrofit/blob/master/retrofit/src/main/resources/META-INF/proguard/retrofit2.pro)
+
 ### S
 | Library | ProGuard |
 |--|--|
