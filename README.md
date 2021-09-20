@@ -8,7 +8,7 @@
 ### F
 | Library | ProGuard |
 |--|--|
-Facebook | [Click Here](https://github.com/facebook/facebook-android-sdk/blob/master/facebook-login/proguard-rules.pro)
+[Facebook](https://github.com/facebook/facebook-android-sdk) | [Click Here](https://github.com/facebook/facebook-android-sdk/blob/master/facebook-login/proguard-rules.pro)
 
 ### G
 | Library | ProGuard |
