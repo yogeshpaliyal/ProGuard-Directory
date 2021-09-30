@@ -26,3 +26,9 @@ A directory of ProGuard rules for most of the libraries
 | Library | ProGuard |
 |--|--|
 [Stfalcon ChatKit](https://github.com/stfalcon-studio/ChatKit)|[Click Here](https://github.com/stfalcon-studio/ChatKit/blob/master/sample/proguard-rules.pro)
+
+
+### V
+| Library | ProGuard |
+|--|--|
+[Volley](https://github.com/google/volley)|[Click Here](https://github.com/google/volley/blob/master/core/consumer-proguard-rules.pro)
