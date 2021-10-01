@@ -16,6 +16,11 @@ A directory of ProGuard rules for most of the libraries
 |--|--|
 [Glide](https://github.com/bumptech/glide)|[Click Here](https://github.com/bumptech/glide/blob/10acc31a16b4c1b5684f69e8de3117371dfa77a8/library/proguard-rules.txt)
 
+### L
+| Library | ProGuard |
+|--|--|
+[Lottie Android](https://github.com/airbnb/lottie-android)|[Click Here](https://github.com/airbnb/lottie-android/blob/master/sample/proguard-multidex-rules.pro)
+
 
 ### R
 | Library | ProGuard |
