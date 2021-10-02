@@ -6,6 +6,11 @@ A directory of ProGuard rules for most of the libraries
 |--|--|
 [Android Fast Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)|[Click Here](https://github.com/amitshekhariitbhu/Fast-Android-Networking/blob/2a72ef2694c55d8391c553400c0ae54c9d7e5038/android-networking/proguard-rules.pro)
 
+### C
+| Library | ProGuard |
+|--|--|
+[CalendarView](https://github.com/huanghaibin-dev/CalendarView)|[Click Here](https://github.com/huanghaibin-dev/CalendarView/blob/master/calendarview/proguard-rules.pro)
+
 ### F
 | Library | ProGuard |
 |--|--|
