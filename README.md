@@ -21,6 +21,10 @@ A directory of ProGuard rules for most of the libraries
 |--|--|
 [Lottie Android](https://github.com/airbnb/lottie-android)|[Click Here](https://github.com/airbnb/lottie-android/blob/master/sample/proguard-multidex-rules.pro)
 
+### P
+| Library | ProGuard |
+|--|--|
+[Picasso](https://github.com/square/picasso)|[Click Here](https://github.com/square/picasso/blob/master/picasso/consumer-proguard-rules.txt)
 
 ### R
 | Library | ProGuard |
