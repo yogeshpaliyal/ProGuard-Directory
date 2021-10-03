@@ -9,7 +9,8 @@ A directory of ProGuard rules for most of the libraries
 ### C
 | Library | ProGuard |
 |--|--|
-[CalendarView](https://github.com/huanghaibin-dev/CalendarView)|[Click Here](https://github.com/huanghaibin-dev/CalendarView/blob/master/calendarview/proguard-rules.pro)
+[CalendarView](https://github.com/huanghaibin-dev/CalendarView)|[Click Here](https://github.com/huanghaibin-dev/CalendarView#proguard-rules)
+[Camerakit](https://github.com/CameraKit/camerakit-android)|[Click Here](https://github.com/CameraKit/camerakit-android#proguard)
 
 ### F
 | Library | ProGuard |
