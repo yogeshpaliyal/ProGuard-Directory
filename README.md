@@ -21,6 +21,10 @@ A directory of ProGuard rules for most of the libraries
 |--|--|
 [Lottie Android](https://github.com/airbnb/lottie-android)|[Click Here](https://github.com/airbnb/lottie-android/blob/master/sample/proguard-multidex-rules.pro)
 
+| Library | ProGuard |
+|--|--|
+[Lottie react native](https://github.com/lottie-react-native/lottie-react-native)|[Click Here](https://github.com/lottie-react-native/lottie-react-native/blob/master/example/android/app/proguard-rules.pro)
+
 
 ### R
 | Library | ProGuard |
