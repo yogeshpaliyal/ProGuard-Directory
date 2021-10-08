@@ -6,6 +6,12 @@ A directory of ProGuard rules for most of the libraries
 |--|--|
 [Android Fast Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)|[Click Here](https://github.com/amitshekhariitbhu/Fast-Android-Networking/blob/2a72ef2694c55d8391c553400c0ae54c9d7e5038/android-networking/proguard-rules.pro)
 
+### C
+| Library | ProGuard |
+|--|--|
+[CalendarView](https://github.com/huanghaibin-dev/CalendarView)|[Click Here](https://github.com/huanghaibin-dev/CalendarView#proguard-rules)
+[Camerakit](https://github.com/CameraKit/camerakit-android)|[Click Here](https://github.com/CameraKit/camerakit-android#proguard)
+
 ### F
 | Library | ProGuard |
 |--|--|
@@ -21,10 +27,15 @@ A directory of ProGuard rules for most of the libraries
 |--|--|
 [Lottie Android](https://github.com/airbnb/lottie-android)|[Click Here](https://github.com/airbnb/lottie-android/blob/master/sample/proguard-multidex-rules.pro)
 
+
 | Library | ProGuard |
 |--|--|
 [Lottie react native](https://github.com/lottie-react-native/lottie-react-native)|[Click Here](https://github.com/lottie-react-native/lottie-react-native/blob/master/example/android/app/proguard-rules.pro)
 
+### P
+| Library | ProGuard |
+|--|--|
+[Picasso](https://github.com/square/picasso)|[Click Here](https://github.com/square/picasso/blob/master/picasso/consumer-proguard-rules.txt)
 
 ### R
 | Library | ProGuard |
