@@ -15,7 +15,7 @@ A directory of ProGuard rules for most of the libraries
 ### D
 | Library | ProGuard |
 |--|--|
-[Dexter](https://github.com/Subhadiptech/Dexter/blob/master/dexter/proguard-rules.pro)
+[Dexter](https://github.com/Karumi/Dexter)|[Click Here](https://github.com/Subhadiptech/Dexter/blob/master/dexter/proguard-rules.pro)
 
 ### F
 | Library | ProGuard |
