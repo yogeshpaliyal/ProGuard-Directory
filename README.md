@@ -12,6 +12,11 @@ A directory of ProGuard rules for most of the libraries
 [CalendarView](https://github.com/huanghaibin-dev/CalendarView)|[Click Here](https://github.com/huanghaibin-dev/CalendarView#proguard-rules)
 [Camerakit](https://github.com/CameraKit/camerakit-android)|[Click Here](https://github.com/CameraKit/camerakit-android#proguard)
 
+### D
+| Library | ProGuard |
+|--|--|
+[Dexter](https://github.com/Subhadiptech/Dexter/blob/master/dexter/proguard-rules.pro)
+
 ### F
 | Library | ProGuard |
 |--|--|
