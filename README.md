@@ -36,6 +36,11 @@ A directory of ProGuard rules for most of the libraries
 [Lottie Android](https://github.com/airbnb/lottie-android)|[Click Here](https://github.com/airbnb/lottie-android/blob/master/sample/proguard-multidex-rules.pro)
 [Lottie react native](https://github.com/lottie-react-native/lottie-react-native)|[Click Here](https://github.com/lottie-react-native/lottie-react-native/blob/master/example/android/app/proguard-rules.pro)
 
+### M
+| Library | ProGuard |
+|--|--|
+[MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)|[Click Here](https://github.com/florent37/MyLittleCanvas/blob/master/app/proguard-rules.pro)
+
 ### P
 | Library | ProGuard |
 |--|--|
