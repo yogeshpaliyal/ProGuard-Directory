@@ -16,6 +16,7 @@ A directory of ProGuard rules for most of the libraries
 | Library | ProGuard |
 |--|--|
 [Dexter](https://github.com/Karumi/Dexter)|[Click Here](https://github.com/Subhadiptech/Dexter/blob/master/dexter/proguard-rules.pro)
+[Data store preference](https://developer.android.com/topic/libraries/architecture/datastore#datastore-preferences)|[Click here](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:datastore/datastore-preferences/proguard-rules.pro)
 
 ### F
 | Library | ProGuard |
