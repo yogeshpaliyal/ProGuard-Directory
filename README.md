@@ -1,3 +1,4 @@
+
 # ProGuard-Directory 
 A directory of ProGuard rules for most of the libraries
 
@@ -23,16 +24,24 @@ A directory of ProGuard rules for most of the libraries
 [Dexter](https://github.com/Karumi/Dexter)|[Click Here](https://github.com/Subhadiptech/Dexter/blob/master/dexter/proguard-rules.pro)
 [Data store preference](https://developer.android.com/topic/libraries/architecture/datastore#datastore-preferences)|[Click here](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:datastore/datastore-preferences/proguard-rules.pro)
 
+### E
+| Library | ProGuard |
+|--|--|
+[EventBus](https://github.com/greenrobot/EventBus) | [Click Here](https://github.com/greenrobot/EventBus/blob/master/eventbus-android/consumer-rules.pro)
+
 ### F
 | Library | ProGuard |
 |--|--|
 [Facebook](https://github.com/facebook/facebook-android-sdk) | [Click Here](https://github.com/facebook/facebook-android-sdk/blob/master/facebook-login/proguard-rules.pro)
+[Fresco](https://github.com/facebook/fresco) | [Click Here](https://github.com/facebook/fresco/blob/main/fbcore/proguard-fresco.pro)
 
 ### G
 | Library | ProGuard |
 |--|--|
 [Glide](https://github.com/bumptech/glide)|[Click Here](https://github.com/bumptech/glide/blob/10acc31a16b4c1b5684f69e8de3117371dfa77a8/library/proguard-rules.txt)
 [GSON](https://github.com/google/gson)|[Click Here](https://github.com/google/gson/blob/master/examples/android-proguard-example/proguard.cfg)
+[Guava](https://github.com/google/guava)|[Click Here](https://github.com/google/guava/wiki/UsingProGuardWithGuava)
+[GreenDAO](https://greenrobot.org/greendao)|[Click Here](https://github.com/greenrobot/EventBus/blob/master/eventbus-android/consumer-rules.pro)
 
 ### L
 | Library | ProGuard |
@@ -59,7 +68,13 @@ A directory of ProGuard rules for most of the libraries
 | Library | ProGuard |
 |--|--|
 [Stfalcon ChatKit](https://github.com/stfalcon-studio/ChatKit)|[Click Here](https://github.com/stfalcon-studio/ChatKit/blob/master/sample/proguard-rules.pro)
+[Stetho](https://github.com/facebook/stetho)|[Click Here](https://github.com/facebook/stetho/blob/main/stetho/proguard-consumer.pro)
 
+
+### T
+| Library | ProGuard |
+|--|--|
+[Timber](https://github.com/JakeWharton/timber)|[Click Here](https://github.com/JakeWharton/timber/blob/trunk/timber/consumer-proguard-rules.pro)
 
 ### V
 | Library | ProGuard |
