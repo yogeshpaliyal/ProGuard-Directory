@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { data } from "./db";
-import { Layout, Space, Table } from "antd";
+import { Space, Table } from "antd";
 import Link from "antd/es/typography/Link";
-import { Content, Footer, Header } from "antd/es/layout/layout";
+import { Footer, Header } from "antd/es/layout/layout";
 import Search from "antd/es/input/Search";
 
 
