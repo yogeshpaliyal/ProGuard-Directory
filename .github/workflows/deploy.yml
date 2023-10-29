@@ -1,4 +1,4 @@
-name: Deploy to github pages
+name: Deploy to GitHub pages
 on: 
   push:
     branches:
@@ -32,7 +32,7 @@ jobs:
         id: build-bundle
         run: bun run build
 
-      - name: Exports Build to Github Pages
+      - name: Expors Build to Github Pages
         uses: s0/git-publish-subdir-action@develop
         env:
           REPO: self
