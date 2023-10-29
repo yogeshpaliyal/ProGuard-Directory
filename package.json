@@ -2,7 +2,7 @@
   "name": "project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yogeshpaliyal.github.io/ProGuard-Directory",
+  "homepage": "https://github.yogeshpaliyal.com/ProGuard-Directory",
   "dependencies": {
     "@testing-library/jest-dom": "5.17.0",
     "@testing-library/react": "13.4.0",
