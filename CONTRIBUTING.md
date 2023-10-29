@@ -1,12 +1,22 @@
 # Welcome to ProGuard Directory
 Thank you for investing your time in contributing to our project!
 
+
 ## Steps to contribute
-**Step 1.** Fork this repo (using top right button).  
-**Step 3.** Clone forked repo using `git clone`. on your local system. (You can edit the repo in browser itselt click . (dot) to open in-browser vs-code)  
-**Step 2.** Add the library you want to add in Readme.md in desired table.  
-**Step 3.** Commit your changes to your repo.  
-**Step 4.** Create to a Pull request.  
+1. Fork this repo (using top right button).
+2. Clone forked repo using `git clone`. on your local system. (You can edit the repo in browser itselt click . (dot) to open in-browser vs-code)
+3. Create new file in `proguards`directory or use this [link](https://github.com/yogeshpaliyal/ProGuard-Directory/new/main/proguards) to create file.
+4.  create file name with libraryName and extension as `.json`.
+```json
+{
+  "name": "<Library Name>",
+  "link": "<Proguard File Link>"
+}
+```
+5. Push the new file to new branch.
+6. Raise A PR.
+7. On Successfully review and merge in `main` branch, the site will be deployed automatically.
+
 
 
 #### Thank you  🎉🎉  for your contrubution.  
