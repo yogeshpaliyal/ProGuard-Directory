@@ -5,6 +5,8 @@ import { Space, Table } from "antd";
 import Link from "antd/es/typography/Link";
 import { Footer, Header } from "antd/es/layout/layout";
 import Search from "antd/es/input/Search";
+import githubLogo from "./github-mark.svg";
+import Icon from "antd/es/icon";
 
 
 const columns = [
@@ -23,7 +25,7 @@ const columns = [
 
 function App() {
 
-    const [filteredData, setFilteredData] = useState(data)
+    const [ filteredData, setFilteredData ] = useState(data)
 
     const onSearch = (text: string) => {
         const lowerText = text.toLowerCase()
@@ -32,22 +34,38 @@ function App() {
 
     return (
         <div className="App">
-            <Header style={ { display: 'flex', alignItems: 'center', color: "white" } }>
-                <h1>Proguard Directory</h1>
-            </Header>
 
-            <Space direction={ "vertical" } style={ { margin: 16, flex: 1 } }>
+            <div style={ {
+                background: '#192a56',
+                paddingLeft: 16,
+                paddingRight: 16,
+                display: 'flex',
+                alignItems: 'center',
+                color: "white",
+                flexWrap: "wrap",
+                justifyContent: 'space-between'
+            } }>
+                <h2>Android Proguard Directory</h2>
+                <Link href={ "https://github.com/yogeshpaliyal/ProGuard-Directory" } target="_blank"
+                      rel="noopener noreferrer">
+                    <img src={ githubLogo } height={ 32 } width={ 32 }
+                                                     className="Github Logo" alt="logo"/>
+                </Link>
+            </div>
+            <Space style={ { flex: 1, margin: 16 } } direction={ "vertical" } size={ 16 }>
                 <Search
                     placeholder="Search"
                     size="large"
-                    enterButton={"Search"}
+                    enterButton={ "Search" }
                     onSearch={ onSearch }
                     onChange={ (e) => onSearch(e.target.value) }
                 />
-                <Table style={{flex: 1}} dataSource={ filteredData } columns={ columns }/>
-            </Space>
 
-            <Footer> Create by Yogesh Paliyal </Footer>
+
+                <Table dataSource={ filteredData } columns={ columns }/>
+            </Space>
+            <Footer> Created by <Link href={ "https://github.com/yogeshpaliyal" } target="_blank"
+                                      rel="noopener noreferrer">Yogesh Paliyal</Link></Footer>
 
         </div>
     );
