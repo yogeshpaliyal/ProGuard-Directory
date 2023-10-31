@@ -1,5 +1,5 @@
 
-# ProGuard-Directory 
+# Android ProGuard-Directory 
 This repository contains ProGuard configuration for optimizing and obfuscating your Android project. 
 ProGuard helps reduce the size of the APK, enhances performance, and adds a layer of security by obfuscating the code.
 
