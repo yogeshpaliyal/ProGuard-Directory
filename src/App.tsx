@@ -3,10 +3,9 @@ import './App.css';
 import { data } from "./db";
 import { Space, Table } from "antd";
 import Link from "antd/es/typography/Link";
-import { Footer, Header } from "antd/es/layout/layout";
+import { Footer } from "antd/es/layout/layout";
 import Search from "antd/es/input/Search";
 import githubLogo from "./github-mark.svg";
-import Icon from "antd/es/icon";
 
 
 const columns = [
