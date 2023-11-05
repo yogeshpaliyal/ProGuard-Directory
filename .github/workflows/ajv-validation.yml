@@ -1,0 +1,26 @@
+name: AJV JSON Validation
+
+on:
+  push:
+    paths:
+      - 'proguard/**.json'
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install bun
+        uses: oven-sh/setup-bun@v1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          registry-url: https://registry.npmjs.org/
+
+      - name: Validate JSON files
+        run: bunx ajv -s src/schema/proguard-info.json -d 'proguards/**/*.json'
