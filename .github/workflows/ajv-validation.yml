@@ -3,7 +3,7 @@ name: AJV JSON Validation
 on:
   pull_request:
     paths:
-      - 'proguard/**.json'
+      - 'proguards/**.json'
 
 jobs:
   validate-json:
