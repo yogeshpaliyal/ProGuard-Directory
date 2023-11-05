@@ -23,4 +23,4 @@ jobs:
           registry-url: https://registry.npmjs.org/
 
       - name: Validate JSON files
-        run: bunx ajv -s src/schema/proguard-info.json -d 'proguards/**/*.json'
+        run: bunx ajv-cli -s src/schema/proguard-info.json -d 'proguards/**/*.json'
