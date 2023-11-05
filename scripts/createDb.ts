@@ -1,6 +1,5 @@
 import * as fs from 'fs';
 import { ProguardInfo } from "../src/types/proguard-info";
-import { runCommand } from "../src/utils/utils";
 import { fetchContributors, fetchLastUpdate } from "../src/utils/git-utils";
 
 const directory = './proguards'
@@ -16,7 +15,6 @@ fs.readdir(directory, async (err: any, files: string[]) => {
     const newJson: ProguardInfo[] = []
     for (const item of files) {
         try {
-            console.log("Start fetching file info", item)
             const filePath = directory + "/" + item
             const dataSync = fs.readFileSync(filePath, 'utf8');
             const json: ProguardInfo = JSON.parse(dataSync)
@@ -25,9 +23,8 @@ fs.readdir(directory, async (err: any, files: string[]) => {
                 json.lastUpdated = await fetchLastUpdate(filePath)
                 newJson.push(json)
             }
-            console.log("End fetching file info", json)
         } catch (e) {
-            console.log("Error fetching file info", e)
+            console.log("Error fetching file info", item, e)
         }
     }
 
