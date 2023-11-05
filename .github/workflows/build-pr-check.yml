@@ -1,4 +1,4 @@
-name: AJV JSON Validation
+name: Build Checks
 
 on:
   pull_request:
