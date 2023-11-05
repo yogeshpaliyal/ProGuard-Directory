@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ProGuard-Directory/static/css/main.454da886.css",
-    "main.js": "/ProGuard-Directory/static/js/main.b97855b3.js",
+    "main.js": "/ProGuard-Directory/static/js/main.edb29834.js",
     "static/js/787.ec704a7a.chunk.js": "/ProGuard-Directory/static/js/787.ec704a7a.chunk.js",
     "index.html": "/ProGuard-Directory/index.html",
     "static/media/github-mark.svg": "/ProGuard-Directory/static/media/github-mark.1dc5ab12ef3fc81720b0f4ff72ce5655.svg",
     "main.454da886.css.map": "/ProGuard-Directory/static/css/main.454da886.css.map",
-    "main.b97855b3.js.map": "/ProGuard-Directory/static/js/main.b97855b3.js.map",
+    "main.edb29834.js.map": "/ProGuard-Directory/static/js/main.edb29834.js.map",
     "787.ec704a7a.chunk.js.map": "/ProGuard-Directory/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.454da886.css",
-    "static/js/main.b97855b3.js"
+    "static/js/main.edb29834.js"
   ]
 }
