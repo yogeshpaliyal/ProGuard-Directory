@@ -6,8 +6,7 @@
       "type": "string"
     },
     "link": {
-      "type": "string",
-      "format": "uri"
+      "type": "string"
     },
     "tags": {
       "type": "array",
