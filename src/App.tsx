@@ -15,11 +15,6 @@ const columns = [
         key: 'name',
     },
     {
-        title: 'Contributors',
-        dataIndex: 'contributors',
-        key: 'contributors',
-    },
-    {
         title: 'Link',
         dataIndex: 'link',
         key: 'link',
