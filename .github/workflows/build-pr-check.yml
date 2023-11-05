@@ -6,7 +6,7 @@ on:
       - 'proguards/**.json'
 
 jobs:
-  validate-json:
+  validate-build:
     runs-on: ubuntu-latest
 
     steps:
